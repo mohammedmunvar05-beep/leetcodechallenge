@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0183-customers-who-never-order) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
