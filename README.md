@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0069-sqrtx) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
