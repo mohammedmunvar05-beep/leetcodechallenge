@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1401-circle-and-rectangle-overlapping) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
