@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
