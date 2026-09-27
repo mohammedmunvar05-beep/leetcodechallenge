@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0217-contains-duplicate) |
 ## Counting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1768-merge-strings-alternately) |
 ## Linked List
