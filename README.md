@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0069-sqrtx) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2235-add-two-integers](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2427-number-of-common-factors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
