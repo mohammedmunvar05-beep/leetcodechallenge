@@ -128,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2427-number-of-common-factors) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
