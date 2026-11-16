@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/mohammedmunvar05-beep/leetcodechallenge/tree/master/1768-merge-strings-alternately) |
